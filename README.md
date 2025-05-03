@@ -7,4 +7,4 @@
 - 📫 How to reach me: @elijahcs@uci.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm currently on my fourth year of getting caught up with One Piece lol. SANJI IS MY FAVORITE STRAWHAT.
---
+
