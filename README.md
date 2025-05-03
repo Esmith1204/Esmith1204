@@ -1,5 +1,5 @@
 
-##Hi :] My name is Elijah! I'm an aspiring web developer, a Figma enthusiast, and a design freak.
+## Hi :] My name is Elijah! I'm an aspiring web developer, a Figma enthusiast, and a design freak.
 
 - 🔭 I’m currently working on my personal website portfolio and a video documenting my web development journey!
 - 🌱 I’m currently learning frontend development and frameworks.
