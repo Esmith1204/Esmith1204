@@ -4,7 +4,7 @@
 My name is Elijah! I'm an aspiring web developer, a Figma enthusiast, and a design freak.
 I'm currently at UCI studying informatics. My interests right now are AI and design, duh.
 
-- 💻 I’m currently working on my personal website portfolio and a video documenting my web development journey!
+- 💻 I’m currently working on some persoanl projects in the background
 - 🌱 I’m currently learning frontend development and frameworks.
 - 💬 Ask me about Notion. I love Notion.
 - 📫 How to reach me: @elijahiya1204@gmail.com
