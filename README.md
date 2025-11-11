@@ -6,7 +6,9 @@ I'm currently a student at UCI studying informatics. Outside of my studies, I've
 
 In my free time, I like creating graphics for all my current obsessions and listening to albums (good and bad). My obsessions right now include Fullmetal Alchemist, Radiohead, Daniel Caesar, Dispatch, and Chainsaw Man!
 
-Below is a list of some of the things I've learned so far:
+<div align="center">
+## Below is a list of some of the things I've learned so far:
+</div>
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
