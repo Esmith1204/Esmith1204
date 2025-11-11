@@ -7,7 +7,7 @@ I'm currently a student at UCI studying informatics. Outside of my studies, I've
 In my free time, I like creating graphics for all my current obsessions and listening to albums (good and bad). My obsessions right now include Fullmetal Alchemist, Radiohead, Daniel Caesar, Dispatch, and Chainsaw Man!
 
 <div align="center">
-	<p> Below is a list of some of the things I've learned so far: </p> 
+	<p> <strong> Below is a list of things I've learned so far: <strong> </p> 
 </div>
 
 
