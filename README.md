@@ -1,15 +1,12 @@
 
-## Hi :]
+## Hello :]
 
-My name is Elijah! I'm an aspiring web developer, a Figma enthusiast, and a design freak.
-I'm currently at UCI studying informatics. My interests right now are AI and design, duh.
+My name is Elijah! I'm an aspiring designer, a Figma enthusiast, and a frontend developer.
+I'm currently a student at UCI studying informatics. Outside of my studies, I've been focusing on design and frontend development.
 
-- 💻 I’m currently working on some persoanl projects in the background
-- 🌱 I’m currently learning frontend development and frameworks.
-- 💬 Ask me about Notion. I love Notion.
-- 📫 How to reach me: @elijahiya1204@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm currently on my fourth year of getting caught up with One Piece lol. SANJI IS MY FAVORITE STRAWHAT.
+In my free time, I like creating graphics for all my current obsessions and listening to albums (good and bad). My obsessions right now include Fullmetal Alchemist, Radiohead, Daniel Caesar, Dispatch, and Chainsaw Man!
+
+Below is a list of some of the things I've learned so far:
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
